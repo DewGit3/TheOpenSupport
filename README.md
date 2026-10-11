@@ -15,9 +15,11 @@ python main.py
 
 ## Project Structure
 
+
 main.py
 main_page.py
 commands.py
+
 
 main.py — application entry point
 main_page.py — main interface
