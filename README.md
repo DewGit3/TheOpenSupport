@@ -15,10 +15,10 @@ python main.py
 
 ## Project Structure
 
-TheOpenSupport/
-├── main.py
-├── main_page.py
-└── commands.py
+
+main.py
+main_page.py
+commands.py
 
 main.py — application entry point
 main_page.py — main interface
