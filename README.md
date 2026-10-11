@@ -15,15 +15,12 @@ python main.py
 
 ## Project Structure
 
-
-main.py
-main_page.py
-commands.py
-
+main.py  main_page.py  commands.py
 
 main.py — application entry point
 main_page.py — main interface
 commands.py — commands and launcher logic
+
 
 ## Libraries
 TOS uses only Python standard libraries:
