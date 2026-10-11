@@ -7,6 +7,14 @@ A lightweight Python launcher for opening **websites and applications by name**.
 -  Launch applications by name
 -  Add custom websites and applications without editing the source code
 
+## Libraries
+TOS uses only Python standard libraries:
+
+- webbrowser
+- os
+- time
+  
+
 ## Requirements
 - Python 3.x
 
@@ -18,13 +26,7 @@ python main.py
 main.py  main_page.py  commands.py
 
 main.py — application entry point
+
 main_page.py — main interface
+
 commands.py — commands and launcher logic
-
-
-## Libraries
-TOS uses only Python standard libraries:
-
-- webbrowser
-- os
-- time
